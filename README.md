@@ -35,9 +35,9 @@ Continual monitoring for evolving customer behaviour.
 Refinement of targeting strategies based on ongoing data analysis.
 
 # Repository Structure
-Data: Contains the dataset used for analysis.
-Notebooks: Jupyter notebooks for data exploration, preprocessing, modeling, and evaluation.
-Documentation: Additional reports or analysis summaries.
-Code: Scripts/modules for preprocessing, modeling, and evaluation.
-Results: Visualizations, model performance metrics, and insights.
-Resources: Supplementary materials, references, or external resources used during the project.
+**Data**: Contains the dataset used for analysis.
+**Notebooks**: Jupyter notebooks for data exploration, preprocessing, modeling, and evaluation.
+**Documentation**: Additional reports or analysis summaries.
+**Code**: Scripts/modules for preprocessing, modeling, and evaluation.
+**Results**: Visualizations, model performance metrics, and insights.
+**Resources**: Supplementary materials, references, or external resources used during the project.
